@@ -3,7 +3,7 @@
 SYNOPSIS
 
 IMPORTANCE OF THE  DECIDED PROJECT  		
-The project will revolutionize military operations and bring transformation in the field of inspection. It will minimize the time required for making maps for each working area. A better perspective of the field location without actually going on ground.
+The project will not only revolutionize education methodology but also military operations and bring transformation in the field of inspection. It will minimize the time required for making maps for each working area. A better perspective of the field location without actually going on ground.
 
 
 STEPS TO DO THE PROJECT/ METHODOLOGY..(components, circuit, how will you design the project model )
