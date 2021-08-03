@@ -1,4 +1,4 @@
-# ARProjectforEducation_FYGrp_S1_EDAI
+# AR Project for Education
 
 SYNOPSIS
 
