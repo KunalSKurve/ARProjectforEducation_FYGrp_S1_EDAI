@@ -1,4 +1,4 @@
-# AR Project for Education
+# Unity Based Application that uses Augmented Reality for Education
 
 SYNOPSIS
 
