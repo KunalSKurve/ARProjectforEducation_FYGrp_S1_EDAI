@@ -1,4 +1,4 @@
-# Unity Based Application that uses Augmented Reality for Education
+# Unity Based Application that uses Augmented Reality for Education for Subject: Engineering Design and Innovation
 
 SYNOPSIS
 
